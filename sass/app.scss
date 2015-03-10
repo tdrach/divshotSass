@@ -1,1 +1,17 @@
-@import 'base';
+// ~~~~~~~~~~~~~~
+// SCSS Master
+
+// Config
+@import 'config';
+
+// Third Party
+@import 'lib/bourbon/bourbon';
+@import 'lib/neat/neat';
+
+// Global 
+@import 'global/reset';
+@import 'global/mixins';
+@import 'global/placeholders';
+
+// Modules
+@import 'modules/blog'; // example module
