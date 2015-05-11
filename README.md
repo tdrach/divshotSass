@@ -2,7 +2,7 @@
 
 ## Using Divshot
 
-Divshot setup that uses Grunt to compiles/minifies SASS and minifies/uglifies JavaScript.
+Divshot setup that uses Grunt to compile/minifies SASS and minifies/uglifies JavaScript.
 
 Make sure you have Grunt installed and set up via http://gruntjs.com/
 and Divshot http://docs.divshot.com/guides/getting-started
